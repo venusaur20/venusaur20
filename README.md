@@ -1,5 +1,5 @@
-Hey I’m @venusaur20 but you can call me "ven"
-I’m interested in: learning
+Hey I’m @venusaur20 but you can call me "ven".
+I’m interested in: learning.
 I’m currently learning: Python, Java, and how to use GitHub!
 
 
